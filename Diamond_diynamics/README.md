@@ -98,4 +98,21 @@ Open browser at http://localhost:8501
 - Shape: 53,940 rows × 10 columns
 - Target: `price` (USD) → converted to INR
 
-- 
+  ---
+
+## 📽️ Project Presentation (PPT)
+
+You can view the complete project presentation here:
+
+🔗 [Diamond Dynamics PPT Presentation](https://drive.google.com/file/d/1_5g8XydBYa2766-cocEzHt-n_6PWjQm7/view?usp=sharing)
+
+The presentation includes:
+- Project overview
+- Problem statement
+- Data preprocessing
+- EDA insights
+- Regression & clustering models
+- Streamlit application
+- Final results and conclusions
+
+---
