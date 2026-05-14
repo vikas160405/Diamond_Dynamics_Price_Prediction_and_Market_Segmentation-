@@ -1,7 +1,4 @@
 # 💎 Diamond Dynamics: Price Prediction and Market Segmentation
-**GUVI × HCL Capstone Project**
-**Student:** Vikas Relangi | Roll No: 22221A4550
-
 ---
 
 ## 📁 Project Structure
@@ -100,3 +97,5 @@ Open browser at http://localhost:8501
 - Source: `seaborn.load_dataset('diamonds')` — same as the Kaggle diamonds dataset
 - Shape: 53,940 rows × 10 columns
 - Target: `price` (USD) → converted to INR
+
+- 
