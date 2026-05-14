@@ -1,0 +1,53 @@
+{
+  "features_final": [
+    "carat",
+    "cut",
+    "color",
+    "clarity",
+    "depth",
+    "table",
+    "volume",
+    "dimension_ratio"
+  ],
+  "cluster_features": [
+    "carat",
+    "cut",
+    "color",
+    "clarity",
+    "depth",
+    "table",
+    "volume"
+  ],
+  "USD_TO_INR": 83.5,
+  "cut_order": [
+    "Fair",
+    "Good",
+    "Very Good",
+    "Premium",
+    "Ideal"
+  ],
+  "color_order": [
+    "J",
+    "I",
+    "H",
+    "G",
+    "F",
+    "E",
+    "D"
+  ],
+  "clarity_order": [
+    "I1",
+    "SI2",
+    "SI1",
+    "VS2",
+    "VS1",
+    "VVS2",
+    "VVS1",
+    "IF"
+  ],
+  "cluster_names": {
+    "0": "Premium Heavy Diamonds",
+    "1": "Affordable Small Diamonds",
+    "2": "Mid-range Balanced Diamonds"
+  }
+}
